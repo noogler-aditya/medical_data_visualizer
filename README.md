@@ -19,7 +19,9 @@ This project focuses on visualizing and analyzing medical examination data to ex
 
 ⚛️ Python 3.x 🎨 Pandas library 📦 Matplotlib 📎 Seaborn
 
-Clone the repository: git clone https://github.com/noogler-aditya/demographic_data_analyzer.git Install Pandas if not already installed: pip install pandas Navigate to the project directory: cd demographic-data-analyzer
+##📦 Installation
+
+Clone the repository: git clone ```https://github.com/noogler-aditya/medical_data_visualizer.git``` Install Pandas if not already installed: pip install pandas Navigate to the project directory: cd medical-data-visualizer
 
 🤝 Contributions
 
